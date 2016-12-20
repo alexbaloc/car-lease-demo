@@ -27,4 +27,4 @@ keyValStore
 # VS Code
 launch.json
 settings.json
-
+.vscode
