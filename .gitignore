@@ -12,9 +12,19 @@ Server_Side/logs/
 npm-debug.log
 Server_Side/logs/app_trace.log
 
-chaincode.txt
-keyValStore
-
 **/.DS_Store
 
 coverage/
+.npmignore
+
+# Docker volumes
+hyper/
+membersrvc/data
+chaincode.txt
+keyValStore
+
+
+# VS Code
+launch.json
+settings.json
+
